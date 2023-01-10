@@ -1,2 +1,2 @@
-# memory_game
-Este é um jogo da memória feito com HTML, CSS e JS
+# contador
+Este é um contador feito com HTML, CSS e JS
