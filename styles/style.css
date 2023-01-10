@@ -32,6 +32,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
+    text-align: center;
     align-items: center;
     color: aliceblue;
 }
