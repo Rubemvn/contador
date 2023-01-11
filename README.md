@@ -14,6 +14,6 @@ Botões de adicionar '1' e Subtrair '1' da contagem
 3. Link das minhas redes-sociais
     1. Instagram
     2. Github
-    3. e-mail
-    4. whatsapp
-    5. telegram
+        1. e-mail
+        2. whatsapp
+        3. telegram
