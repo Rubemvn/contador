@@ -12,8 +12,6 @@ Botões de adicionar '1' e Subtrair '1' da contagem
 1. Botão de resetar contagem
 2. Botão de salvar contagem
 3. Link das minhas redes-sociais
-    1. Instagram
-    2. Github
-        1. e-mail
-            1. whatsapp
-            2. telegram
+    1. instagram
+    2. github
+    3. e-mail
