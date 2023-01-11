@@ -33,6 +33,6 @@ Botões de adicionar '1' e Subtrair '1' da contagem
 
 #### Links
 
-[Google](https://www.google.com)
+[![Google](https://www.google.com)](https://t.ctcdn.com.br/essK16aBUDd_65hp5umT3aMn_i8=/400x400/smart/filters:format(webp)/i606944.png)
 
 Contribuidor principal: https://github.com/Rubemvn
