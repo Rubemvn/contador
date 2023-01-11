@@ -36,3 +36,19 @@ Botões de adicionar '1' e Subtrair '1' da contagem
 Contribuidor principal: https://github.com/Rubemvn
 
 [![Google](https://www.google.com.br/images/branding/googlelogo/2x/googlelogo_color_160x56dp.png)](https://www.google.com)
+
+#### Scripts usados
+```
+let input = document.getElementById("value");
+
+let maisUm = () => {
+    let value = parseInt(input.textContent);
+    input.innerText = value + 1;
+    console.log(value)
+}
+let menosUm = () => {
+    let value = parseInt(input.textContent);
+    input.innerText = value - 1;
+    console.log(value)
+}
+```
