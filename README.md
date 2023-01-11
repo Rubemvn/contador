@@ -28,3 +28,5 @@ Botões de adicionar '1' e Subtrair '1' da contagem
 #### Imagens local
 
 ![logo do Java Script](./images/js.jpg)
+
+![logo do Node.js](https://serverdo.in/wp-content/uploads/2019/05/node-js-736399_1280.jpg)
