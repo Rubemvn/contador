@@ -18,9 +18,9 @@ Esse é um mini-projeto criado para focar no meu aprendizado de git e github. De
 
 #### Funcionalidades a desenvolver
 
-- [] 1. Botão de resetar contagem
-- [] 2. Botão de salvar contagem
-- [] 3. Link das minhas redes-sociais
+- [ ] 1. Botão de resetar contagem
+- [ ] 2. Botão de salvar contagem
+- [ ] 3. Link das minhas redes-sociais
     1. instagram
     2. github
     3. e-mail
