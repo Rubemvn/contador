@@ -15,5 +15,5 @@ Botões de adicionar '1' e Subtrair '1' da contagem
     1. Instagram
     2. Github
         1. e-mail
-        2. whatsapp
-        3. telegram
+            1. whatsapp
+            2. telegram
