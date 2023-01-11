@@ -35,4 +35,4 @@ Botões de adicionar '1' e Subtrair '1' da contagem
 
 [Google](https://www.google.com)
 
-https://github.com/Rubemvn/contador
+Contribuidor principal: https://github.com/Rubemvn
