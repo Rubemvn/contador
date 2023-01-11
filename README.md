@@ -8,3 +8,7 @@ Botões de adicionar '1' e Subtrair '1' da contagem
 * HTML
 * CSS
 * JS
+#### Funcionalidades a desenvolver
+1. Botão de resetar contagem
+2. Botão de salvar contagem
+3. *Por enquanto é isso*
